@@ -2,14 +2,14 @@
 
 
 
-Script: processa_nomes.exs
+Script: process_names.exs
 
 
 
 Para rodar é necessário ter o elixir instalado na máquina.
 https://elixir-lang.org/
 
-O comando via terminal: **elixir processa_names.exs**
+O comando via terminal: **elixir process_names.exs**
 
 
 
