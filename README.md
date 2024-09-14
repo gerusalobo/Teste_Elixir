@@ -25,13 +25,15 @@ E assim por diante.
 Exemplo:
 
 Por favor, insira os nomes (uma linha por vez, pressione Enter em uma linha vazia para terminar):
-	paulo
-	pedro
-	paulo
-	maria
+
+- paulo
+- pedro
+- paulo
+- maria
 
 Resultado:
-	Paulo I
-	Pedro I
-	Paulo II
-	Maria I
+
+- Paulo I
+- Pedro I
+- Paulo II
+- Maria I
